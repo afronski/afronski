@@ -7,7 +7,7 @@
 
 ## I'm Cloud, Serverless and Data Architect! :muscle:
 
-- ☁ Co-founder of [Pattern Match](https://pattern-match.com/)
+- ☁ Co-founder of [Pattern Match](https://pattern-match.com/).
 - 🔭 I enjoy solving complex data and serverless challenges on [AWS platform](http://aws.amazon.com).
 - :pencil2: Blogging and sharing knowledge regularly on [the blog](https://awsmaniac.com) and [YouTube channel](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q).
 - :computer: Functional programmer by heart and soul ([Erlang](https://www.erlang.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/)).
