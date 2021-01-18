@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**afronski/afronski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World, I'm Wojciech Gawroński - aka [AWS Maniac](https://awsmaniac.com/) 👋
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/website?label=AWS%20Maniac%20Blog&style=for-the-badge&up_message=UP&url=https%3A%2F%2Fawsmaniac.com)](https://awsmaniac.com) [![afronski](https://img.shields.io/static/v1?label=Subscribe&message=AWS+Maniac+on+YT&color=red&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/twitter/follow/afronski?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/afronski) [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/afronski/) [![Instagram Profile](https://img.shields.io/static/v1?label=Instagram&message=Profile&color=purple&style=for-the-badge&logo=instagram)](https://instagram.com/afronsky/) 
+
+## I'm Cloud, Serverless and Data Architect! :muscle:
+
+- 🔭 I enjoy solving complex data and serverless challenges on [AWS platform](http://aws.amazon.com).
+- :pencil2: Blogging and sharing knowledge regularly on [the blog](https://awsmaniac.com) and [YouTube channel](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q).
+- :computer: Functional programmer by heart and soul ([Erlang](https://www.erlang.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/)).
+- 📫 How to reach me: [you can find details here](https://awsmaniac.com/contact/).
+- 😄 Pronouns: he/him/his
+- 🌱 Currently working on enhancing my expertise with [Rust](https://www.rust-lang.org).
