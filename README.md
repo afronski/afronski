@@ -7,7 +7,7 @@
 
 ## I'm Developer Advocate at [AWS](https://aws.amazon.com)! 🥑☁️🇵🇱
 
-- 🔭 I enjoy teaching about data and serverless challenges on [AWS platform](http://aws.amazon.com).
+- 🔭 I enjoy teaching about data and serverless challenges on [AWS](http://aws.amazon.com).
 - :pencil2: Blogging and sharing knowledge regularly on [the blog](https://awsmaniac.com) and [YouTube channel](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q).
 - :computer: Functional programmer by heart and soul ([Erlang](https://www.erlang.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/)).
 - 📫 How to reach me: [you can find details here](https://awsmaniac.com/contact/).
