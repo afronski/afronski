@@ -11,7 +11,7 @@
 - :pencil2: Blogging and sharing knowledge regularly on [the blog](https://awsmaniac.com) and [YouTube channel](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q).
 - :computer: Functional programmer by heart and soul ([Erlang](https://www.erlang.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/)).
 - 📫 How to reach me: [you can find details here](https://awsmaniac.com/contact/).
-- 🎖 11x [AWS Certified Expert](https://www.youracclaim.com/users/afronski/badges).
+- 🎖 14x [AWS Certified Expert](https://www.youracclaim.com/users/afronski/badges).
 - 😄 Pronouns: he/him/his
 - 🌱 Currently working on enhancing my expertise with [Rust](https://www.rust-lang.org).
 - 🏆 Ex-member of the [*AWS Community Builders*](https://aws.amazon.com/developer/community/community-builders/) program.
