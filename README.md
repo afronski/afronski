@@ -5,10 +5,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/afronski?color=%231DA1F2&label=Follow%20me%20on%20Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/afronski) [![LinkedIn Profile](https://img.shields.io/static/v1?label=LinkedIn&message=Profile&color=blue&style=for-the-badge&logo=linkedin)](https://linkedin.com/in/afronski/) [![Instagram Profile](https://img.shields.io/static/v1?label=Instagram&message=Profile&color=purple&style=for-the-badge&logo=instagram)](https://instagram.com/afronsky/)
 
-## I'm Developer Advocate at [AWS](https://aws.amazon.com)! 🥑☁️🇵🇱
+## I'm Developer Advocate at [Unleash](https://getunleash.io)! 🥑☁️🇵🇱
 
 - 🔭 I enjoy teaching about data and serverless challenges on [AWS](http://aws.amazon.com).
-- :pencil2: Blogging and sharing knowledge regularly on [the blog](https://awsmaniac.com) and [YouTube channel](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q).
+- :pencil2: Blogging and sharing knowledge on [the blog](https://awsmaniac.com) and [YouTube channel](https://www.youtube.com/channel/UCGpHK4MYiIMbyJt7TOkcp5Q).
 - :computer: Functional programmer by heart and soul ([Erlang](https://www.erlang.org/), [Elixir](https://elixir-lang.org/), [Clojure](https://clojure.org/)).
 - 📫 How to reach me: [you can find details here](https://awsmaniac.com/contact/).
 - 🎖 14x [AWS Certified Expert](https://www.youracclaim.com/users/afronski/badges).
