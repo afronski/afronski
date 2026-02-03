@@ -14,7 +14,10 @@
 - 🌱 Currently working on enhancing my expertise with [Rust](https://www.rust-lang.org).
 - 🎖 14x [AWS Certified Expert](https://www.youracclaim.com/users/afronski/badges).
 - 😄 Pronouns: he/him/his
-- ☁ Ex-Amazon Web Services (AWS) employee (formerly _Senior Developer Advocate_, working closely with _Central and Eastern European (CEE)_ AWS Communities and on _AWS_ services using [Cedar](https://www.cedarpolicy.com/en) 🌲).
+- ☁ Ex-Amazon Web Services (AWS) employee.
+  - Formerly _Senior Developer Advocate_, working closely with _AWS_ Communities in _Central and Eastern European_ (_CEE_) countries.
+  - Specialising in _Software Development and Architecture_, _Distributed Systems_, _Application Security_, and _Cloud Data Platforms_.
+  - Working closely on _AWS_ services using [Cedar](https://www.cedarpolicy.com/en) 🌲.
 - 🏆 Ex-member of the [*AWS Community Builders*](https://aws.amazon.com/developer/community/community-builders/) program.
 - 👨‍🏫 Ex-teacher at NatywnaChmura.pl.
 - ☁ Ex-founder of Pattern Match.
